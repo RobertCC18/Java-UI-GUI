@@ -1,0 +1,1 @@
+This is a Java project with the purpose of displaying some of the features of the Java Swing library
